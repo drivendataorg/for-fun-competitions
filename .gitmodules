@@ -1,0 +1,12 @@
+[submodule "dengai"]
+	path = dengai
+	url = https://github.com/drivendataorg/dengai
+[submodule "millennium-development-goals"]
+	path = millennium-development-goals
+	url = https://github.com/drivendataorg/millennium-development-goals
+[submodule "pump-it-up"]
+	path = pump-it-up
+	url = https://github.com/drivendataorg/pump-it-up
+[submodule "blood-donations"]
+	path = blood-donations
+	url = https://github.com/drivendataorg/blood-donations
